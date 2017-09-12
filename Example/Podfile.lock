@@ -1,0 +1,16 @@
+PODS:
+  - ZZCoreManager (0.1.0)
+
+DEPENDENCIES:
+  - ZZCoreManager (from `../`)
+
+EXTERNAL SOURCES:
+  ZZCoreManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZCoreManager: 718b94372d1694cf936d5ae1eab7ee64872f0997
+
+PODFILE CHECKSUM: e4058532762bbe7f4ddf486873fb149d34e6bda5
+
+COCOAPODS: 1.2.1

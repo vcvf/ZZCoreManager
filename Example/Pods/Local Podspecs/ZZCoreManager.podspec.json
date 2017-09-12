@@ -1,0 +1,22 @@
+{
+  "name": "ZZCoreManager",
+  "version": "0.1.0",
+  "summary": "A short description of ZZCoreManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1594717129@qq.com/ZZCoreManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1594717129@qq.com": "1594717129@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1594717129@qq.com/ZZCoreManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZCoreManager/Classes/**/*"
+}

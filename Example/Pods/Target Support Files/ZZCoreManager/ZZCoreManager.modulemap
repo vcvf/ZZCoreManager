@@ -1,0 +1,6 @@
+framework module ZZCoreManager {
+  umbrella header "ZZCoreManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
