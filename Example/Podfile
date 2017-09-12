@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZZCoreManager_Example' do
+  pod 'ZZCoreManager', :path => '../'
+
+  target 'ZZCoreManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
